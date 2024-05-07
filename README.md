@@ -19,33 +19,6 @@ objective is to leverage data science techniques to help the telecom
 company understand and address customer churn, thereby enhancing
 customer satisfaction and loyalty.
 
-DATA DESCRIPTION
-The dataset Customer_churn.csv contains 7043 rows and 21 columns.
-The following table shows the description of each columns:
-Feature Name Description
-1. customerID Unique ID of customers.
-2. gender Gender of the customer.
-3. SeniorCitizen Senior citizen or not.
-4. Partner Has a Partner or not.
-5. Dependents Dependent or not.
-6. tenure The length of time a customer
-remains as customer.
-7. PhoneService Taking Phone service or not.
-8. MultipleLines Taking MultipleLines or not.
-9. InternetService Type of Internet service.
-10. OnlineSecurity Taking Online Security or not.
-11. OnlineBackup Taking Online Backup or not.
-12. DeviceProtection Taking Device Protection or not.
-13. TechSupport Taking Tech Support or not
-14. StreamingTV Taking Streaming TV or not.
-15. StreamingMovies Taking Streaming Movies or not.
-16. Contract Type of Contract service.
-17. PaperlessBilling Using Paperless Billing or not.
-18. PaymentMethod Type of Payment method.
-19. MonthlyCharges Monthly charges.
-20. TotalCharges Total Charges.
-21. Churn Customer Churn.
-
 DATA PREPROCESSING STEPS AND
 INSPIRATION
 The preprocessing of the data includes the following steps:
